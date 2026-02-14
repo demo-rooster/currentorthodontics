@@ -1,80 +1,65 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Current Orthodontics",
+  "domain": "currentorthodontics.com",
+  "email": "treatmentcoordinator@currentorthodontics.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "(541) 672-5721",
+    "href": "tel:+15416725721",
+    "aria": "5 4 1, 6 7 2, 5 7 2 1"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "",
       "address": {
-        "street": "9650 Main Street",
+        "street": "500 SE Douglas Avenue",
         "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "city_state": "Roseburg, OR 97470",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "-123.34633",
+          "latitude": "43.21234"
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "(541) 672-5721",
+        "href": "tel:+15416725721"
       },
-      "email": "info@mandtortho.com",
+      "email": "treatmentcoordinator@currentorthodontics.com",
       "hours": [
         {
-          "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Mon",
+          "time": "Varies — call to confirm"
         },
         {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Tues",
+          "time": "Varies — call to confirm"
         },
         {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Wed",
+          "time": "Varies — call to confirm"
         },
         {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
+          "day": "Thu",
+          "time": "Varies — call to confirm"
         },
         {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Fri",
+          "time": "Varies — call to confirm"
+        },
+        {
+          "day": "Sat",
+          "time": "Weekend appointments available"
+        },
+        {
+          "day": "Sun",
+          "time": "Closed"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
+        "href": "https://www.google.com/maps/place/Current+Orthodontics/@43.2123289,-123.34633,15z/data=!4m5!3m4!1s0x0:0xc42940b2ed94e7f1!8m2!3d43.2123289!4d-123.34633",
         "label": "Get Directions"
       },
-      "special_note": ""
-    },
-    {
-      "title": "Tonawanda Office",
-      "address": {
-        "street": "1077 Delaware Rd",
-        "suite": "",
-        "city_state": "Tonawanda, NY 14223",
-        "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
-        }
-      },
-      "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
-      },
-      "email": "info@mandtortho.com",
-      "hours": [],
-      "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
-        "label": "Get Directions"
-      },
-      "special_note": ""
+      "special_note": "Weekend appointments are offered for added convenience. Call (541) 672-5721 for current hours and availability."
     }
   ],
   "typography": [
@@ -94,28 +79,28 @@
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "icon": "tooth-two-v2",
+        "text": "500 SE Douglas Avenue, Roseburg, OR 97470",
+        "href": "https://www.google.com/maps/place/Current+Orthodontics/@43.2123289,-123.34633,15z/data=!4m5!3m4!1s0x0:0xc42940b2ed94e7f1!8m2!3d43.2123289!4d-123.34633",
+        "label": "View 500 SE Douglas Avenue, Roseburg, OR 97470 on Google Maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "(541) 672-5721",
+        "href": "tel:+15416725721",
+        "label": "Call (541) 672-5721",
         "new_window": false
       }
     ],
     "announcement": {
-      "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "icon": "phone",
+      "label": "COVID 19 update",
+      "text": "COVID-19 Update. Click to learn how we keep patients and team members safe.",
+      "mobile_text": "COVID 19 Update",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "COVID-19 Update",
+        "text": "To keep our patients and staff safe we ask that you reschedule if you are experiencing fever, cough, recent illness, or recent high‑risk travel. Our team follows enhanced infection control protocols and uses appropriate protective equipment. We encourage only patients to enter the office when possible; companions may be asked to wait outside. Virtual consultations are available — call (541) 672-5721 to learn more."
       }
     }
   },
@@ -124,14 +109,14 @@
     "buttons": [
       {
         "button": {
-          "type": "nuxt",
+          "type": "anchor",
           "style": "primary",
           "label": "Schedule Consultation",
           "aria_label": "Schedule a consultation",
-          "href": "",
-          "path": "/contact",
-          "hash": "#form",
-          "external": false,
+          "href": "https://www.currentorthodontics.com/schedule-your-consult/",
+          "path": "",
+          "hash": "",
+          "external": true,
           "include_icon": true,
           "icon": "tooth-two-v2",
           "color": "primary"
@@ -150,7 +135,15 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
+        "href": "https://www.facebook.com/JonPetersenDMD/?fref=ts",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/currentorthodontics/",
+        "icon": "instagram"
+      },
+      {
+        "href": "https://www.youtube.com/channel/UCVsUFwOfJvzKbv4lG-5ILnw",
         "icon": "youtube"
       }
     ],
@@ -158,7 +151,7 @@
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
+    "title": "Welcome to Current Orthodontics",
     "text": "",
     "image": {
       "src": "",
