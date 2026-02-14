@@ -4,69 +4,69 @@
       {
         "label": "primary",
         "color": {
-          "red": 74,
-          "green": 122,
-          "blue": 155,
+          "red": 126,
+          "green": 166,
+          "blue": 178,
           "alpha": 1
         },
-        "hex": "#4a7a9b",
+        "hex": "#7ea6b2",
         "accessibility": {
-          "luminance": 0.17,
-          "luminancePercent": "17%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 4.6,
-          "wcagRating": "AA"
+          "luminance": 0.35,
+          "luminancePercent": "35%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 7.98,
+          "wcagRating": "AAA"
         }
       },
       {
         "label": "secondary",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 97,
+          "green": 140,
+          "blue": 153,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#618c99",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
+          "luminance": 0.24,
+          "luminancePercent": "24%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 5.72,
           "wcagRating": "AA"
         }
       },
       {
         "label": "accent",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 47,
+          "green": 141,
+          "blue": 172,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#2F8DAC",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
-          "wcagRating": "AAA"
+          "luminance": 0.23,
+          "luminancePercent": "23%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 5.53,
+          "wcagRating": "AA"
         }
       },
       {
         "label": "text",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 47,
+          "green": 141,
+          "blue": 172,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#2F8DAC",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
-          "wcagRating": "AAA"
+          "luminance": 0.23,
+          "luminancePercent": "23%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 5.53,
+          "wcagRating": "AA"
         }
       },
       {
@@ -123,17 +123,17 @@
       {
         "label": "topbar-dark",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 97,
+          "green": 140,
+          "blue": 153,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#618c99",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
+          "luminance": 0.24,
+          "luminancePercent": "24%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 5.72,
           "wcagRating": "AA"
         }
       }
@@ -141,76 +141,20 @@
     "typography": [
       {
         "label": "font",
-        "font": "'Verdana', helvetica, arial, sans-serif"
+        "font": "'sans-serif', helvetica, arial, sans-serif"
       },
       {
         "label": "font-title",
-        "font": "'Montserrat', sans-serif"
+        "font": "'Roboto', sans-serif"
       }
     ],
-    "logo_url": "https://www.taortho.com/assets/images/logo.png",
+    "logo_url": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22260px%22%20height%3D%22120px%22%20data-fc-idx%3D%220%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Csvg%20viewBox%3D%220%200%20288%20144%22%20class%3D%22logo%22%3E%0A%20%20%20%20%3Cdefs%3E%3Cstyle%3E.logo-1%7Bfill%3A%23606163%3B%7D.logo-2%2C.logo-4%7Bfill%3A%2372a8c0%3B%7D.logo-2%7Bstroke%3A%2372a8c0%3Bstroke-miterlimit%3A10%3Bstroke-width%3A0.36px%3B%7D.logo-3%7Bfill%3A%23fff%3B%7D.logo-5%7Bfill%3A%23388dac%3B%7D%3C%2Fstyle%3E%3C%2Fdefs%3E%0A%20%20%20%20%3Ctitle%3Ecurrent%20orthodontics%20logo%3C%2Ftitle%3E%0A%20%20%20%20%3Crect%20class%3D%22logo-1%22%20width%3D%22288%22%20height%3D%22144%22%2F%3E%3Cpath%20class%3D%22logo-2%22%20d%3D%22M40%2C110.65a4.77%2C4.77%2C0%2C0%2C1%2C0%2C8%2C8%2C8%2C0%2C0%2C1-5%2C1.59%2C8.12%2C8.12%2C0%2C0%2C1-5.06-1.59%2C4.77%2C4.77%2C0%2C0%2C1%2C0-8A8.11%2C8.11%2C0%2C0%2C1%2C34.95%2C109%2C8.08%2C8.08%2C0%2C0%2C1%2C40%2C110.65Zm-.58.67A7.28%2C7.28%2C0%2C0%2C0%2C34.95%2C110a7.28%2C7.28%2C0%2C0%2C0-4.46%2C1.37%2C3.88%2C3.88%2C0%2C0%2C0%2C0%2C6.62%2C7.28%2C7.28%2C0%2C0%2C0%2C4.46%2C1.37%2C7.28%2C7.28%2C0%2C0%2C0%2C4.46-1.37%2C3.88%2C3.88%2C0%2C0%2C0%2C0-6.62Z%22%2F%3E%3Cpath%20class%3D%22logo-2%22%20d%3D%22M62.88%2C119.41a.44.44%2C0%2C0%2C1-.7.37l-4.75-3.16H49.91v2.79a.45.45%2C0%2C0%2C1-.91%2C0V109.22H59.19a3.7%2C3.7%2C0%2C1%2C1%2C0%2C7.39h-.13L62.69%2C119A.42.42%2C0%2C0%2C1%2C62.88%2C119.41Zm-13-3.7h9.27a2.79%2C2.79%2C0%2C0%2C0%2C0-5.58H49.91Z%22%2F%3E%3Cpath%20class%3D%22logo-2%22%20d%3D%22M83.63%2C109.68a.4.4%2C0%2C0%2C1-.45.45h-6v9.28a.45.45%2C0%2C0%2C1-.91%2C0v-9.28h-6a.45.45%2C0%2C1%2C1%2C0-.91h13A.4.4%2C0%2C0%2C1%2C83.63%2C109.68Z%22%2F%3E%3Cpath%20class%3D%22logo-2%22%20d%3D%22M104.25%2C109.85v9.73a.45.45%2C0%2C1%2C1-.91%2C0v-4.41H91.28v4.41a.45.45%2C0%2C1%2C1-.91%2C0v-9.73a.45.45%2C0%2C0%2C1%2C.91%2C0v4.41h12.06v-4.41a.45.45%2C0%2C0%2C1%2C.91%2C0Z%22%2F%3E%3Cpath%20class%3D%22logo-2%22%20d%3D%22M123.27%2C110.65a4.77%2C4.77%2C0%2C0%2C1%2C0%2C8%2C8.82%2C8.82%2C0%2C0%2C1-10.1%2C0%2C4.77%2C4.77%2C0%2C0%2C1%2C0-8%2C8.75%2C8.75%2C0%2C0%2C1%2C10.1%2C0Zm-.58.67a7.94%2C7.94%2C0%2C0%2C0-8.92%2C0%2C3.88%2C3.88%2C0%2C0%2C0%2C0%2C6.62%2C7.94%2C7.94%2C0%2C0%2C0%2C8.92%2C0%2C3.88%2C3.88%2C0%2C0%2C0%2C0-6.62Z%22%2F%3E%3Cpath%20class%3D%22logo-2%22%20d%3D%22M145.2%2C111.47a5.31%2C5.31%2C0%2C0%2C1-2.57%2C8.08%2C5.3%2C5.3%2C0%2C0%2C1-1.77.31H132.3V109.22h8.56a5.3%2C5.3%2C0%2C0%2C1%2C1.77.31A5.15%2C5.15%2C0%2C0%2C1%2C145.2%2C111.47Zm-.74%2C5.62a4.39%2C4.39%2C0%2C0%2C0-3.6-7h-7.65V119h7.65a4.32%2C4.32%2C0%2C0%2C0%2C3.6-1.87Z%22%2F%3E%3Cpath%20class%3D%22logo-2%22%20d%3D%22M165.25%2C110.65a4.77%2C4.77%2C0%2C0%2C1%2C0%2C8%2C8.82%2C8.82%2C0%2C0%2C1-10.1%2C0%2C4.77%2C4.77%2C0%2C0%2C1%2C0-8%2C8.75%2C8.75%2C0%2C0%2C1%2C10.1%2C0Zm-.58.67a7.94%2C7.94%2C0%2C0%2C0-8.92%2C0%2C3.88%2C3.88%2C0%2C0%2C0%2C0%2C6.62%2C7.94%2C7.94%2C0%2C0%2C0%2C8.92%2C0%2C3.88%2C3.88%2C0%2C0%2C0%2C0-6.62Z%22%2F%3E%3Cpath%20class%3D%22logo-2%22%20d%3D%22M188%2C109.77v10.62l-13-9.73v8.84q0%2C.44-.45.44t-.45-.44V108.87l13%2C9.73v-8.82a.45.45%2C0%2C0%2C1%2C.91%2C0Z%22%2F%3E%3Cpath%20class%3D%22logo-2%22%20d%3D%22M208.61%2C109.68a.4.4%2C0%2C0%2C1-.45.45h-6v9.28a.45.45%2C0%2C0%2C1-.91%2C0v-9.28h-6a.45.45%2C0%2C0%2C1%2C0-.91h13A.4.4%2C0%2C0%2C1%2C208.61%2C109.68Z%22%2F%3E%3Cpath%20class%3D%22logo-2%22%20d%3D%22M216%2C109.32a.4.4%2C0%2C0%2C1%2C.45.45v9.73q0%2C.44-.45.44a.39.39%2C0%2C0%2C1-.44-.44v-9.73A.4.4%2C0%2C0%2C1%2C216%2C109.32Z%22%2F%3E%3Cpath%20class%3D%22logo-2%22%20d%3D%22M236.75%2C112a.45.45%2C0%2C0%2C1-.31.11.42.42%2C0%2C0%2C1-.32-.15%2C6.12%2C6.12%2C0%2C0%2C0-2.29-1.58%2C7.85%2C7.85%2C0%2C0%2C0-3-.58%2C7.24%2C7.24%2C0%2C0%2C0-4.46%2C1.38%2C3.88%2C3.88%2C0%2C0%2C0%2C0%2C6.62%2C7.24%2C7.24%2C0%2C0%2C0%2C4.46%2C1.38%2C7.85%2C7.85%2C0%2C0%2C0%2C3-.58%2C6.09%2C6.09%2C0%2C0%2C0%2C2.29-1.58.42.42%2C0%2C0%2C1%2C.32-.15.46.46%2C0%2C0%2C1%2C.31.11.4.4%2C0%2C0%2C1%2C0%2C.63%2C6.63%2C6.63%2C0%2C0%2C1-2.58%2C1.8%2C8.87%2C8.87%2C0%2C0%2C1-3.39.65%2C8.12%2C8.12%2C0%2C0%2C1-5.06-1.59%2C4.77%2C4.77%2C0%2C0%2C1%2C0-8%2C8.13%2C8.13%2C0%2C0%2C1%2C5.06-1.59%2C8.89%2C8.89%2C0%2C0%2C1%2C3.39.65%2C6.64%2C6.64%2C0%2C0%2C1%2C2.58%2C1.8A.4.4%2C0%2C0%2C1%2C236.75%2C112Z%22%2F%3E%3Cpath%20class%3D%22logo-2%22%20d%3D%22M244.66%2C115.71a.4.4%2C0%2C0%2C1%2C.45.45q0%2C1.25%2C1.79%2C2.16a9.27%2C9.27%2C0%2C0%2C0%2C4.24.91%2C14.25%2C14.25%2C0%2C0%2C0%2C4.35-.55q1.69-.55%2C1.69-1.43t-1.33-1.39a24.7%2C24.7%2C0%2C0%2C0-3.94-.75l-.83-.11-.76-.11a30.19%2C30.19%2C0%2C0%2C1-4.15-.81q-2-.7-2-2.24t2.21-2.24a14.78%2C14.78%2C0%2C0%2C1%2C4.74-.63%2C9.83%2C9.83%2C0%2C0%2C1%2C4.93%2C1.14%2C3.29%2C3.29%2C0%2C0%2C1%2C2%2C2.81.45.45%2C0%2C1%2C1-.91%2C0q0-1.25-1.79-2.16a9.27%2C9.27%2C0%2C0%2C0-4.24-.91%2C14.28%2C14.28%2C0%2C0%2C0-4.35.55q-1.69.55-1.69%2C1.43t1.43%2C1.41a26.72%2C26.72%2C0%2C0%2C0%2C3.89.75l1.61.23a24.09%2C24.09%2C0%2C0%2C1%2C4.17.81q1.88.68%2C1.88%2C2.22t-2.21%2C2.24a14.81%2C14.81%2C0%2C0%2C1-4.73.63%2C9.84%2C9.84%2C0%2C0%2C1-4.93-1.14%2C3.29%2C3.29%2C0%2C0%2C1-2-2.81A.4.4%2C0%2C0%2C1%2C244.66%2C115.71Z%22%2F%3E%3Cpath%20class%3D%22logo-3%22%20d%3D%22M39.68%2C72.08a3.73%2C3.73%2C0%2C0%2C0-.54-2.18%2C2.72%2C2.72%2C0%2C0%2C0-2.3-.75%2C2.58%2C2.58%2C0%2C0%2C0-2.15.71%2C3.69%2C3.69%2C0%2C0%2C0-.54%2C2.22v2.54q0%2C1.52%2C0%2C3.67t0%2C5v6.5q0%2C1.13%2C0%2C2.14a6.46%2C6.46%2C0%2C0%2C0%2C.17%2C1.77A2.11%2C2.11%2C0%2C0%2C0%2C35%2C94.88a3%2C3%2C0%2C0%2C0%2C1.83.43A3.61%2C3.61%2C0%2C0%2C0%2C39%2C94.8a2.55%2C2.55%2C0%2C0%2C0%2C.64-2v-4.1H43.4v4.17A2.63%2C2.63%2C0%2C0%2C1%2C43%2C94.14a4%2C4%2C0%2C0%2C1-1.2%2C1.24%2C7%2C7%2C0%2C0%2C1-2%2C.92%2C9.9%2C9.9%2C0%2C0%2C1-2.81.36A9.12%2C9.12%2C0%2C0%2C1%2C33.28%2C96a5.08%2C5.08%2C0%2C0%2C1-2.2-1.8%2C4%2C4%2C0%2C0%2C1-.56-2q-.07-1.22-.07-2.69v-12q0-.75%2C0-1.75t0-2q0-1%2C.07-1.77a5.33%2C5.33%2C0%2C0%2C1%2C.22-1.22%2C4.15%2C4.15%2C0%2C0%2C1%2C2.22-2.27%2C9.18%2C9.18%2C0%2C0%2C1%2C3.93-.77%2C10.13%2C10.13%2C0%2C0%2C1%2C2.91.38%2C6.63%2C6.63%2C0%2C0%2C1%2C2.05%2C1A4%2C4%2C0%2C0%2C1%2C43%2C70.52a3.43%2C3.43%2C0%2C0%2C1%2C.39%2C1.56v3H39.68Z%22%2F%3E%3Cpath%20class%3D%22logo-3%22%20d%3D%22M71%2C90.89c0%2C.36%2C0%2C.72%2C0%2C1.07A11.28%2C11.28%2C0%2C0%2C0%2C71%2C93.32a2.45%2C2.45%2C0%2C0%2C0%2C.37%2C1.05%2C1.88%2C1.88%2C0%2C0%2C0%2C.86.7%2C3.78%2C3.78%2C0%2C0%2C0%2C1.49.24h0A3.62%2C3.62%2C0%2C0%2C0%2C75.38%2C95a1.74%2C1.74%2C0%2C0%2C0%2C.83-.92%2C4.79%2C4.79%2C0%2C0%2C0%2C.29-1.71q0-1.07%2C0-2.61V68.17h3.67V91.32q0%2C.94-.07%2C1.71a2.84%2C2.84%2C0%2C0%2C1-.42%2C1.3%2C4.71%2C4.71%2C0%2C0%2C1-2.27%2C1.75%2C8.73%2C8.73%2C0%2C0%2C1-3.2.58h-1a8.53%2C8.53%2C0%2C0%2C1-3.18-.58%2C4.71%2C4.71%2C0%2C0%2C1-2.25-1.75%2C2.83%2C2.83%2C0%2C0%2C1-.42-1.3q-.07-.77-.07-1.71V68.17H71V89.78C71%2C90.16%2C71%2C90.53%2C71%2C90.89Z%22%2F%3E%3Cpath%20class%3D%22logo-3%22%20d%3D%22M116.6%2C78.28q-.1%2C3-5.13%2C3.65.19.53.56%2C1.41l.81%2C2%2C.93%2C2.33q.49%2C1.24%2C1%2C2.44%2C1.12%2C2.86%2C2.39%2C6.17h-3.71l-5.23-14.32h-.39V96.25H104l0-28.12h6.65a11.82%2C11.82%2C0%2C0%2C1%2C1.91.17%2C6.82%2C6.82%2C0%2C0%2C1%2C1.91.6A4.07%2C4.07%2C0%2C0%2C1%2C116%2C70.1a3.16%2C3.16%2C0%2C0%2C1%2C.59%2C2Zm-8.75%2C2.18h2.93a2%2C2%2C0%2C0%2C0%2C1.22-.34%2C2.09%2C2.09%2C0%2C0%2C0%2C.64-.75%2C3.42%2C3.42%2C0%2C0%2C0%2C.24-1.09V77q0-.6%2C0-1.41t0-1.67V72.11a5.08%2C5.08%2C0%2C0%2C0-.17-1.41%2C1.75%2C1.75%2C0%2C0%2C0-.61-.92%2C2.14%2C2.14%2C0%2C0%2C0-1.32-.34h-3Z%22%2F%3E%3Cpath%20class%3D%22logo-3%22%20d%3D%22M153.25%2C78.28q-.1%2C3-5.13%2C3.65.19.53.56%2C1.41l.81%2C2%2C.93%2C2.33q.49%2C1.24%2C1%2C2.44%2C1.12%2C2.86%2C2.39%2C6.17h-3.71l-5.23-14.32h-.39V96.25h-3.76l0-28.12h6.65a11.82%2C11.82%2C0%2C0%2C1%2C1.91.17%2C6.82%2C6.82%2C0%2C0%2C1%2C1.91.6%2C4.07%2C4.07%2C0%2C0%2C1%2C1.47%2C1.2%2C3.16%2C3.16%2C0%2C0%2C1%2C.59%2C2Zm-8.75%2C2.18h2.93a2%2C2%2C0%2C0%2C0%2C1.22-.34%2C2.09%2C2.09%2C0%2C0%2C0%2C.64-.75%2C3.42%2C3.42%2C0%2C0%2C0%2C.24-1.09V77q0-.6%2C0-1.41t0-1.67V72.11a5.08%2C5.08%2C0%2C0%2C0-.17-1.41%2C1.75%2C1.75%2C0%2C0%2C0-.61-.92%2C2.14%2C2.14%2C0%2C0%2C0-1.32-.34h-3Z%22%2F%3E%3Cpath%20class%3D%22logo-3%22%20d%3D%22M176.66%2C68.17h9.87v1.47h-6.06v10.9h5.62V82h-5.62l0%2C12.86h6v1.43H176.7Z%22%2F%3E%3Cpath%20class%3D%22logo-3%22%20d%3D%22M222.39%2C68.17V96.25h-1.86L211.25%2C76.1V96.25h-1.91V68.17h1.91l9.24%2C20v-20Z%22%2F%3E%3Cpath%20class%3D%22logo-3%22%20d%3D%22M245.31%2C68.17h13v1.47h-4.64V96.25h-3.76V69.63h-4.59Z%22%2F%3E%3Cpath%20class%3D%22logo-4%22%20d%3D%22M268.77%2C44.28c-82-54.2-165.37%2C36.31-250-18.28v4.84c84.66%2C55.22%2C168-35.89%2C250%2C19Z%22%2F%3E%3Cpath%20class%3D%22logo-5%22%20d%3D%22M268.77%2C54c-82-54.19-165.38%2C36.31-250-18.28v4.84c84.66%2C55.23%2C168-35.89%2C250%2C19Z%22%2F%3E%3C%2Fsvg%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3C%2Fsvg%3E",
     "logo_config": {
-      "type": "url",
+      "type": "svg",
       "variant": "light",
-      "url": "https://www.taortho.com/assets/images/logo.png"
+      "url": null
     },
-    "logo_colors": {
-      "colors": [
-        {
-          "hex": "#3f9ff4",
-          "luminosity_percent": 32,
-          "count": 3
-        },
-        {
-          "hex": "#3c9bf0",
-          "luminosity_percent": 31,
-          "count": 3
-        },
-        {
-          "hex": "#3c9bf1",
-          "luminosity_percent": 31,
-          "count": 3
-        },
-        {
-          "hex": "#3e9bf0",
-          "luminosity_percent": 31,
-          "count": 2
-        },
-        {
-          "hex": "#3d9df3",
-          "luminosity_percent": 32,
-          "count": 2
-        },
-        {
-          "hex": "#090707",
-          "luminosity_percent": 0,
-          "count": 2
-        },
-        {
-          "hex": "#070507",
-          "luminosity_percent": 0,
-          "count": 2
-        },
-        {
-          "hex": "#3da1f8",
-          "luminosity_percent": 33,
-          "count": 2
-        },
-        {
-          "hex": "#3d9ff2",
-          "luminosity_percent": 32,
-          "count": 1
-        },
-        {
-          "hex": "#3e9ef5",
-          "luminosity_percent": 32,
-          "count": 1
-        }
-      ],
-      "dominant_color": "#3f9ff4",
-      "avg_luminosity": 25.6,
-      "is_light": false
-    },
-    "favicon_url": "https://www.taortho.com/assets/images/icons/favicon.png"
+    "logo_colors": null,
+    "favicon_url": "https://currentorthodontics.com/favicon.ico"
   }
 }
